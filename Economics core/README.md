@@ -10,3 +10,8 @@
 ### Varian 
 - http://people.ischool.berkeley.edu/~hal/people/hal/papers.html
 - http://people.ischool.berkeley.edu/~hal/people/hal/books.html
+
+### networks / Complexity
+- https://web.stanford.edu/~jacksonm/papersarticles.html
+- https://www.santafe.edu/
+- https://systemsinnovation.io/course/
