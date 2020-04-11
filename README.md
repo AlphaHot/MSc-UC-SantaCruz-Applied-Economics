@@ -6,8 +6,7 @@ Statistical coursework in the masters program
 
 Probably some calculus, linear algebra, probability theory, and basic computational reasoning skills.
 - https://ocw.mit.edu/courses/economics/
-- https://www.econometrics-with-r.org/
-- https://bookdown.org/ccolonescu/RPoE4/
+- http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataNotes.htm
 
 # Resources
 
