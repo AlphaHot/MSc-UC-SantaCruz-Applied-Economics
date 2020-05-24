@@ -6,6 +6,9 @@
 - https://leeps.ucsc.edu/people/details/dan-friedman
 - http://people.ischool.berkeley.edu/~hal/people/hal/papers.html
 - https://sites.google.com/site/dimitriskorobilis/matlab
+- http://tamuz.caltech.edu/
+- http://math.mit.edu/~elmos/
+- http://www.rajchetty.com/
 
 ### Monetary Theory
 - https://github.com/kennt/monetary-economics
