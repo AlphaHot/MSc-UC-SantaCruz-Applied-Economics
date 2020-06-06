@@ -8,6 +8,7 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 - https://ocw.mit.edu/courses/economics/
 - https://ocw.mit.edu/courses/mathematics/
 - http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataNotes.htm
+- https://statmodeling.stat.columbia.edu/
 
 # Resources
 
