@@ -13,6 +13,7 @@
 - http://tamuz.caltech.edu/
 - http://math.mit.edu/~elmos/
 - http://www.rajchetty.com/
+- https://athey.people.stanford.edu/research
 
 ### Monetary Theory
 - https://github.com/kennt/monetary-economics
