@@ -11,6 +11,7 @@
 - http://people.ischool.berkeley.edu/~hal/people/hal/papers.html
 - https://sites.google.com/site/dimitriskorobilis/matlab
 - http://tamuz.caltech.edu/
+- http://users.cms.caltech.edu/~adamw/
 - http://math.mit.edu/~elmos/
 - http://www.rajchetty.com/
 - https://athey.people.stanford.edu/research
@@ -23,6 +24,10 @@
 - https://web.stanford.edu/~jacksonm/papersarticles.html
 - https://www.santafe.edu/
 - https://systemsinnovation.io/course/
+- https://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/
+- https://toc.csail.mit.edu/Computation%20Economics
+-https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-022-introduction-to-network-models-fall-2018/
+- https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/
 
 ### Decision Theory
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/24-222-decisions-games-and-rational-choice-spring-2008/index.htm
