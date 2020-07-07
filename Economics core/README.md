@@ -53,6 +53,9 @@
 - https://en.wikipedia.org/wiki/Systems_science
 - https://en.wikipedia.org/wiki/Network_science
 - https://en.wikipedia.org/wiki/Category:Complex_systems_theory
+- https://en.wikipedia.org/wiki/Category:Multi-agent_systems
+- http://www.scholarpedia.org/article/Agent_based_modeling
+- https://en.wikipedia.org/wiki/Agent-based_model
 - https://en.wikipedia.org/wiki/Portal:Capitalism
 - https://en.wikipedia.org/wiki/Portal:Communism
 - https://en.wikipedia.org/wiki/Portal:Philosophy
