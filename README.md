@@ -10,7 +10,6 @@ Probably some calculus, linear algebra, probability theory, and basic computatio
 
 # Resources
 
-- **Quant Econ:** https://quantecon.org/lectures/
 - **Computational Statistics:** https://people.duke.edu/~ccc14/sta-663/index.html
 - **Modern Applied Econometrics:** https://ocw.mit.edu/courses/economics/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/
 - **Some Practical Math:** https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/

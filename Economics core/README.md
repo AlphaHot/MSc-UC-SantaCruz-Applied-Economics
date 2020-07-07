@@ -19,11 +19,10 @@
 - **Elchanan Mossel:** http://math.mit.edu/~elmos/
 - **Raj Chetty:** http://www.rajchetty.com/
 - **Susan Athey:** https://athey.people.stanford.edu/research
+- **Matthew O. Jackson:** https://web.stanford.edu/~jacksonm/papersarticles.html
 
 ### networks / Complexity
 - https://www.complexityexplorer.org/
-- https://web.stanford.edu/~jacksonm/papersarticles.html
-- https://www.santafe.edu/
 - https://systemsinnovation.io/course/
 - http://www.network-science.org/
 - https://toc.csail.mit.edu/Computation%20Economics
@@ -33,7 +32,7 @@
 ### Computational Economics
 - http://www2.econ.iastate.edu/tesfatsi/ace.htm
 - https://www2.cs.duke.edu/courses/fall07/cps196.2/
-- http://comp-econ.org/
+- https://quantecon.org/lectures/
 
 ### Decision Theory and Choice Modeling
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/24-222-decisions-games-and-rational-choice-spring-2008/index.htm
