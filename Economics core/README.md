@@ -1,4 +1,5 @@
 # Resources
+- https://www.ineteconomics.org/
 - https://en.wikipedia.org/wiki/JEL_classification_codes
 - https://ideas.repec.org/
 - http://libguides.gatech.edu/c.php?g=53993&p=348594
@@ -7,7 +8,10 @@
 - http://www.scholarpedia.org/article/Main_Page
 
 ### People
+- **NBER** https://www.nber.org/vitae.html
 - **J Doyne Farmer:** http://www.doynefarmer.com/about-me
+- **Judea Pearl:** http://bayes.cs.ucla.edu/jp_home.html
+- **Matheus Grasselli:** https://ms.mcmaster.ca/~grasselli/
 - **Karl Polanyi:** https://en.wikipedia.org/wiki/Karl_Polanyi
 - **Amartya Sen:** https://www.econlib.org/library/Enc/bios/Sen.html
 - **Yanis Varoufakis:** https://www.yanisvaroufakis.eu/
@@ -20,6 +24,18 @@
 - **Raj Chetty:** http://www.rajchetty.com/
 - **Susan Athey:** https://athey.people.stanford.edu/research
 - **Matthew O. Jackson:** https://web.stanford.edu/~jacksonm/papersarticles.html
+- **Angus Deaton:** https://scholar.princeton.edu/deaton/publications
+- **Joseph Stiglitz:** https://www8.gsb.columbia.edu/faculty/jstiglitz/
+- **Steven Pressman:** https://en.wikipedia.org/wiki/Steven_Pressman_(economist)
+- **Matthew Baron:** https://www.johnson.cornell.edu/faculty-research/faculty/mdb327/
+- **Thomas Sargent:** http://www.tomsargent.com/
+- **Sanjeev Goyal:** http://www.econ.cam.ac.uk/people/faculty/sg472
+- **Paul Romer:** https://paulromer.net/
+- **James Heckman:** https://heckmanequation.org/
+- **Christopher Sims:** http://www.princeton.edu/~sims/
+- **Kenneth Arrow:** https://fsi.stanford.edu/people/kenneth_j_arrow/
+- **Mark Blyth:** http://markblyth.com/
+- **Bill Mitchell:** http://www.billmitchell.org/
 
 ### networks / Complexity
 - https://www.complexityexplorer.org/
