@@ -63,6 +63,7 @@
 
 ### Concepts
 - https://en.wikipedia.org/wiki/Economics
+- https://en.wikipedia.org/wiki/Category:Decision-making
 - https://en.wikipedia.org/wiki/Heterodox_economics
 - https://en.wikipedia.org/wiki/Economic_system
 - https://en.wikipedia.org/wiki/Systems_science
@@ -74,3 +75,4 @@
 - https://en.wikipedia.org/wiki/Portal:Capitalism
 - https://en.wikipedia.org/wiki/Portal:Communism
 - https://en.wikipedia.org/wiki/Portal:Philosophy
+- https://en.wikipedia.org/wiki/Category:Analysis
