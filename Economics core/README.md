@@ -60,6 +60,8 @@
 - http://www.stat.cmu.edu/~cshalizi/almost-none/
 - http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page
 - https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/
+- http://www.cds.caltech.edu/~murray/courses/cds110/fa02/
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/
 
 ### Concepts
 - https://en.wikipedia.org/wiki/Economics
