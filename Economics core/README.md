@@ -69,6 +69,7 @@
 - https://en.wikipedia.org/wiki/Heterodox_economics
 - https://en.wikipedia.org/wiki/Economic_system
 - https://en.wikipedia.org/wiki/Systems_science
+- https://en.wikipedia.org/wiki/Category:Systems_theory
 - https://en.wikipedia.org/wiki/Network_science
 - https://en.wikipedia.org/wiki/Category:Complex_systems_theory
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
